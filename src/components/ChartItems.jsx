@@ -1,5 +1,4 @@
 import React from "react";
-import datas from "../data.json";
 
 function ChartItems(props) {
   return (
