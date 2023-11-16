@@ -60,8 +60,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 50px;
   background-color: var(--Cream-BG);
   font-feature-settings: "clig" off, "liga" off;
+  font-family: "DM Sans", sans-serif;
+  overflow-x: hidden;
 }
 
 .main {
